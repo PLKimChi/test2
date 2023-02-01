@@ -6,3 +6,4 @@ sklearn
 streamlit
 tensorflow
 Pillow
+libgl1
